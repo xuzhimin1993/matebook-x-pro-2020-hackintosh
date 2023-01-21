@@ -16,7 +16,7 @@ Currently working on my Personal Machine, so only **stable versions** will be re
 #### Compatible macOS Versions:
 big sur   Monterey    Ventura
 
-<strong>macOS Monterey Support Completed, Will keep maintaining</strong></summary>
+<strong>macOS Ventura Support Completed, Will keep maintaining</strong></summary>
 
 - Follow Dortania's steps for [making the installer in macOS](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#setting-up-the-installer)
 
