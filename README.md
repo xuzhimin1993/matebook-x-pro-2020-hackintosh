@@ -1,10 +1,12 @@
 # matebook-x-pro-2020-hackintosh
 matebook x pro 2020 hackintosh
 
+English version wait me free
 
 原链接如下：https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenCore  作者已经删除这个仓库，可惜了
 
 此EFI同时支持Big Sur，Monterey和Ventura
+
 最新的oc0.8.8.为减少体积，蓝牙，wifi以及声卡使用的是自己根据github最新代码编译的精简版驱动，只支持本机使用，如你在使用中有wifi，蓝牙以及声卡的问题，可以下载原版驱动替换
 
 ⚠️注意：已删除内置smbios信息，使用前请注入自己的smbios信息，smbios机型选择MacBookPro16,2，需要用oc引导win系统的建议win系统下获取uuid后注入，详情百度
