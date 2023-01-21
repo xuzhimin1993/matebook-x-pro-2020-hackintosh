@@ -135,7 +135,9 @@ There is the possibility of disabling CFG Lock and enabling dvmt 64. There is a 
 
 (look at [this link](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/blob/main/readme-en.md#after-installation): "How to disable CFG Lock" and "Change dvmt to 64 mb" in "After installation" section).
 
-These guides work without issue on the MateBook X Pro 2020 (tested with BIOS 1.19 and 1.21 versions). 
+I recommend using “InsydeH2OUVE” to modify dvmt and unlock cfg
+
+These guides work without issue on the MateBook X Pro 2020 (tested with BIOS 1.21 versions). 
 
 Each guide shows the changes to do in config.plist as well.
 	
