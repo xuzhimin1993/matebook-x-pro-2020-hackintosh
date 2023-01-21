@@ -3,6 +3,8 @@ matebook x pro 2020 hackintosh
 
 Original link: https://github.com/RepoWeaver/MateBook-X-Pro-2020-OpenCore The author has deleted this warehouse, unfortunately
 
+要中文的请翻译一下，打字好累.......
+
 You Must **Change SMBIOS** to use **iCloud Services**,Select MacBookPro16,2 for smbios model
 
 It is not recommended to use opencore to boot win, it is recommended to set efi/refind/refind_x64.efi as the first boot, then you can use refind to start win and Mac normally
