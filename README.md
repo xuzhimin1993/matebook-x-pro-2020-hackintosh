@@ -80,7 +80,7 @@ For privacy reasons, all SMBIOS information has been wiped out in the configurat
 | Specifications      | Details                                          |
 | :--- | :--- |
 | Computer model      | Huawei Matebook X Pro 2020                       |
-| Processor           | Intel Core i5-10210U / i7-10510                  |
+| Processor           | Intel Core i5-10210U / i7-10510U                 |
 | Memory              | 16 GB LPDDR3 2133 MHz                            |
 | Hard Disk           | WDC PC SN73(NO support Samsung pm981/a)          |
 | Integrated Graphics | NVIDIA GeForce MX250 / Intel(R) UHD Graphics 620 |
