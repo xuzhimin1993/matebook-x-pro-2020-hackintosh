@@ -993,6 +993,10 @@
 				<data>AQAAAA==</data>
 				<key>enable-backlight-registers-fix</key>
 				<data>AQAAAA==</data>
+				<key>enable-backlight-registers-alternative-fix</key>
+				<data>AQAAAA==</data>
+				<key>enable-backlight-smoother</key>
+				<data>AQAAAA==</data>
 				<key>enable-dpcd-max-link-rate-fix</key>
 				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
@@ -1418,7 +1422,7 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportItlwm</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>22.99.99</string>
 				<key>MinKernel</key>
 				<string>22.0.0</string>
 				<key>PlistPath</key>
