@@ -1416,7 +1416,7 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>AirportItlwm_Sonoma.kext</string>
+				<string>AirportItlwm_Sonoma14.4.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -1425,6 +1425,24 @@
 				<string>Contents/MacOS/AirportItlwm</string>
 				<key>MaxKernel</key>
 				<string>23.99.99</string>
+				<key>MinKernel</key>
+				<string>23.4.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AirportItlwm_Sonoma14.0.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AirportItlwm</string>
+				<key>MaxKernel</key>
+				<string>23.3.99</string>
 				<key>MinKernel</key>
 				<string>23.0.0</string>
 				<key>PlistPath</key>
@@ -1806,7 +1824,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
