@@ -135,7 +135,13 @@ For privacy reasons, all SMBIOS information has been wiped out in the configurat
 
 There is the possibility of disabling CFG Lock and enabling dvmt 64. There is a power management improvement disabling CFG Lock which is quite good. The procedure (Customising BIOS) is quite easy to follow. 
 
-(look at [this link](https://github.com/ske1996/Matebook-x-pro-2019-Hackintosh-newest/blob/main/readme-en.md#after-installation): "How to disable CFG Lock" and "Change dvmt to 64 mb" in "After installation" section).
+About unlocking cfg and dvmt
+⚠️Note: After changing the data, close the software and verify that it is correct before changing the dmvt. When you modify it at the same time for personal testing, the second one will not be saved.
+Unzip InsydeH2OUVE_x86_WINx64_200.00.01.00.zip and open the software, file-load runtime in the upper left corner, double-click Variable in the left column,
+Find cpusetup and double-click, search for 0030 vertically, 0E horizontally, the original value 01, change it to 00, then put a check mark in front of cpusetup, click the purple save icon in the upper left corner, and verify whether the value is still 00 after restarting, cfg Unlocked successfully
+
+Unlock dmvt, file-load runtime in the upper left corner, double-click Variable in the left column,
+Find SaSetup and double-click, search for 0100 vertically, 07 horizontally, the original value is 01, and change it to 02. Then search for 0100 vertically, 08 horizontally, the original value 02, change it to 03, then tick Sasetup, click the purple save icon in the upper left corner, and verify whether the values ​​​​are 02 and 03 after restarting, the dmvt is unlocked successfully
 
 I recommend using “InsydeH2OUVE” to modify dvmt and unlock cfg
 
